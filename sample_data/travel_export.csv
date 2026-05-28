@@ -1,0 +1,26 @@
+Trip ID,Employee ID,Department,Travel Type,Origin Airport,Destination Airport,Departure Date,Return Date,Class,Distance (km),Hotel Name,Nights,Cost,Currency,Country,Vendor
+TRP-10021,EMP-0341,Sales,Flight,LHR,JFK,2024-01-08,2024-01-12,Economy,,,,980.00,GBP,US,British Airways
+TRP-10022,EMP-0341,Sales,Hotel,,,2024-01-08,2024-01-12,,,Marriott Times Square,4,1240.00,GBP,US,Marriott
+TRP-10023,EMP-0455,Engineering,Flight,LHR,SIN,2024-01-15,2024-01-22,Business,,,,4200.00,GBP,SG,Singapore Airlines
+TRP-10024,EMP-0455,Engineering,Hotel,,,2024-01-15,2024-01-22,,,Marina Bay Sands,7,2800.00,GBP,SG,Marina Bay Sands
+TRP-10025,EMP-0212,Finance,Flight,LHR,CDG,2024-01-18,2024-01-19,Economy,,,,320.00,GBP,FR,easyJet
+TRP-10026,EMP-0212,Finance,Rail,,,2024-01-18,2024-01-19,,,,,45.00,GBP,FR,SNCF
+TRP-10027,EMP-0189,Marketing,Flight,LHR,DXB,2024-01-22,2024-01-26,Business,,,,3100.00,GBP,AE,Emirates
+TRP-10028,EMP-0189,Marketing,Hotel,,,2024-01-22,2024-01-26,,,Atlantis The Palm,4,2200.00,GBP,AE,Atlantis Hotels
+TRP-10029,EMP-0567,HR,Flight,LHR,AMS,2024-02-05,2024-02-06,Economy,,,,180.00,GBP,NL,KLM
+TRP-10030,EMP-0341,Sales,Flight,JFK,LAX,2024-02-10,2024-02-14,Economy,,,,890.00,GBP,US,United Airlines
+TRP-10031,EMP-0341,Sales,Hotel,,,2024-02-10,2024-02-14,,,W Los Angeles,4,1560.00,GBP,US,W Hotels
+TRP-10032,EMP-0778,Operations,Flight,LHR,BOM,2024-02-12,2024-02-19,Economy,,,,4100.00,GBP,IN,Air India
+TRP-10033,EMP-0778,Operations,Hotel,,,2024-02-12,2024-02-19,,,Taj Mahal Palace,7,1900.00,GBP,IN,Taj Hotels
+TRP-10034,EMP-0890,Legal,Taxi,,,2024-02-15,2024-02-15,,25,,0,85.00,GBP,UK,Uber
+TRP-10035,EMP-0455,Engineering,Flight,SIN,HKG,2024-02-20,2024-02-22,Economy,,,,560.00,GBP,HK,Cathay Pacific
+TRP-10036,EMP-0455,Engineering,Hotel,,,2024-02-20,2024-02-22,,,Island Shangri-La,2,760.00,GBP,HK,Shangri-La Hotels
+TRP-10037,EMP-0212,Finance,Flight,LHR,FRA,2024-03-04,2024-03-05,Economy,,,,590.00,GBP,DE,Lufthansa
+TRP-10038,EMP-0102,CEO,Flight,LHR,JFK,2024-03-07,2024-03-10,First,,,,6200.00,GBP,US,British Airways
+TRP-10039,EMP-0102,CEO,Hotel,,,2024-03-07,2024-03-10,,,The Plaza Hotel,3,4500.00,GBP,US,Fairmont Hotels
+TRP-10040,EMP-0567,HR,Flight,LHR,CDG,2024-03-11,2024-03-12,Economy,,,,310.00,GBP,FR,Eurostar
+TRP-10041,EMP-0341,Sales,Flight,LAX,ORD,2024-03-15,2024-03-17,Economy,,,,750.00,GBP,US,American Airlines
+TRP-10042,EMP-0341,Sales,Hotel,,,2024-03-15,2024-03-17,,,Marriott Chicago,2,580.00,GBP,US,Marriott
+TRP-10043,EMP-0999,IT,Flight,LHR,BLR,2024-03-18,2024-03-25,Economy,,,,4200.00,GBP,IN,British Airways
+TRP-10044,EMP-0999,IT,Hotel,,,2024-03-18,2024-03-25,,,Taj West End Bangalore,7,1400.00,GBP,IN,Taj Hotels
+TRP-10045,EMP-0778,Operations,Car Rental,,,2024-03-22,2024-03-25,,480,,0,320.00,GBP,IN,Avis
