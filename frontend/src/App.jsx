@@ -14,7 +14,9 @@ function App() {
     api.get('/organizations/').then(r => {
       setOrgs(r.data.results || r.data);
       if ((r.data.results || r.data).length > 0) setOrg((r.data.results || r.data)[0]);
-    }).catch(() => {});
+    }).catch(err => {
+      console.error('API error:', err?.message, err?.response?.status, err?.code);
+    });
   }, []);
 
   return (
